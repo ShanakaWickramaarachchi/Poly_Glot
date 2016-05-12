@@ -1,6 +1,39 @@
 <resources>
-    <string name="app_name">Poly_Glot</string>
+    <string name="app_name">Polyglot</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_select_the_languages_u_knw">Ployglot</string>
+    <string name="title_activity_which_language_u_like_to_learn">Polyglot</string>
+    <string name="title_activity_main_activity2_activity_sinhala">Sinhala Language</string>
+    <string name="title_activity_greeting_people_sinhala">Greeting People</string>
+    <string name="title_activity_media">media</string>
+    <string name="title_activity_nice_to_meet_u">Nice to meet you</string>
+    <string name="title_activity_nice_to_meet_u_2">Nice to meet you</string>
+    <string name="title_activity_nice_to_meet_u_3">Nice to meet you</string>
+    <string name="title_activity_qwqw">qwqw</string>
+
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_pop_music_fragment1">PopMusicFragment1</string>
+    <string name="title_activity_xxx">xxx</string>
+    <string name="title_activity_nice_to_meet_u_4">Nice_to_meet_u</string>
+    <string name="title_activity_nice_to_meet_u_5">Nice to meet you</string>
+    <string name="title_activity_about_me_3">About me</string>
+    <string name="title_activity_about_me_1">About me</string>
+    <string name="title_activity_about_me_2">"About me "</string>
+    <string name="title_activity_about_me_4">About me</string>
+    <string name="title_activity_about_me_5">About me</string>
+    <string name="title_activity_about_me_6">About me</string>
+    <string name="title_activity_feelings_1">Feelings</string>
+    <string name="title_activity_feelings_2">Feelings</string>
+    <string name="title_activity_feelings_3">Feelings</string>
+    <string name="title_activity_feelings_4">Feelings</string>
+    <string name="title_activity_feelings_5">Feelings</string>
+    <string name="title_activity_personal__pronouns__singular_1">"Personal Pronouns-Singular "
+    </string>
+    <string name="title_activity_personal__pronouns__singular_2">Personal Pronouns Singular</string>
+    <string name="title_activity_personal__pronouns__singular_3">Personal Pronouns Singular</string>
 </resources>
