@@ -52,10 +52,10 @@
             android:name=".qwqw"
             android:label="@string/title_activity_qwqw" >
         </activity>
-        <!--<activity-->
-        <!--android:name=".PopMusicFragment1"-->
-        <!--android:label="@string/title_activity_pop_music_fragment1" >-->
-        <!--</activity>-->
+        <!-- <activity -->
+        <!-- android:name=".PopMusicFragment1" -->
+        <!-- android:label="@string/title_activity_pop_music_fragment1" > -->
+        <!-- </activity> -->
         <activity
             android:name=".xxx"
             android:label="@string/title_activity_xxx" >
@@ -70,7 +70,7 @@
         </activity>
         <activity
             android:name=".About_me_3"
-            android:label="@string/title_activity_about_me_3">
+            android:label="@string/title_activity_about_me_3" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -128,6 +128,10 @@
         <activity
             android:name=".Personal_Pronouns_Singular_3"
             android:label="@string/title_activity_personal__pronouns__singular_3" >
+        </activity>
+        <activity
+            android:name=".maps"
+            android:label="@string/title_activity_maps" >
         </activity>
     </application>
 
